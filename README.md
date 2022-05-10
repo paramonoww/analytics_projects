@@ -13,3 +13,9 @@ Presented in the form of iPython Notebooks and readme markdown files.
     <td>Brief Description</td>    
     <td width=20%>Used Libraries</td>
   </tr>
+
+  
+  
+  <left><h3>2. Own projects</h3></left>
+  
+  <left><h3>3. Other</h3></left>
