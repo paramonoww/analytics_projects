@@ -9,9 +9,9 @@ Presented in the form of iPython Notebooks and readme markdown files.
 <table width=100% valign=top >
   <tr>
     <td width=25%><b>Project Name</b></td>
-    <td>Field</td>
-    <td>Brief Description</td>    
-    <td width=20%>Used Libraries</td>
+    <td><b>Field</b></td>
+    <td><b>Brief Description</b></td>    
+    <td width=20%><b>Used Libraries</b></td>
   </tr>
 </table>
   
