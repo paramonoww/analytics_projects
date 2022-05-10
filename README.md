@@ -8,8 +8,8 @@ Presented in the form of iPython Notebooks and readme markdown files.
 <left><h3>1. During studying process</h3></left>
 <table width=100% valign=top >
   <tr>
-    <td width=25%>Name of the project</td>
+    <td width=25%>Project Name</td>
     <td>Field</td>
-    <td>brief description</td>    
-    <td width=20%>Used libraries</td>
+    <td>Brief Description</td>    
+    <td width=20%>Used Libraries</td>
   </tr>
