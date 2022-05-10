@@ -5,7 +5,6 @@ Repository containing data analysis projects completed by me during my wonderful
 Presented in the form of iPython Notebooks and readme markdown files.
 </p>
 
-<left><h3>1. During studying process</h3></left>
 
 <table width=100% valign=top >
   <tr>
