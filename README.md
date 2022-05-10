@@ -16,6 +16,25 @@ Presented in the form of iPython Notebooks and readme markdown files.
 </table>
   
   
+  
   <left><h3>2. Own projects</h3></left>
+  <table width=100% valign=top >
+  <tr>
+    <td width=25%>Project Name</td>
+    <td>Field</td>
+    <td>Brief Description</td>    
+    <td width=20%>Used Libraries</td>
+  </tr>
+</table>
+  
+  
   
   <left><h3>3. Other</h3></left>
+  <table width=100% valign=top >
+  <tr>
+    <td width=25%>Project Name</td>
+    <td>Field</td>
+    <td>Brief Description</td>    
+    <td width=20%>Used Libraries</td>
+  </tr>
+</table>
