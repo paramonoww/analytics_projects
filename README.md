@@ -6,7 +6,7 @@ Presented in the form of iPython Notebooks and readme markdown files.
 </p>
 
 <p align=center>
-Used libraries & technologies:  <br>
+<b> Used libraries & technologies:<b>  <br>
 Python, SQL, pandas, matplotlib, numpy, seaborn, scipy, plotly, scikit-learn.
 </p>
 
